@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="russianRUB">GBP</string>
+    <string name="americaUSD">USD</string>
+    <string name="japanJPY">MFF</string>
+    <string name="chineCNY">FIM</string>
+
+    <string name="russia">GreatBritain\npounds</string>
+    <string name="america">ireland\nEURO</string>
+    <string name="japan">France\nmark</string>
+    <string name="chine">finland\nfmark</string>
+
+    <string name="flag">flag</string>
+</resources>
